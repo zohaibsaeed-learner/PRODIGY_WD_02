@@ -1,6 +1,7 @@
 # PRODIGY_WD_02
 Prodigy Infotech Web Development Internship Task 2.
-
+Video Source:
+<video src="GitHub Demo Upload.mp4" width="100%" controls></video>
 🌦️ SkyCast: Dynamic Weather Dashboard SkyCast is a modern, responsive weather application built to provide real-time meteorological data across global locations. Developed as part of a technical internship, this project demonstrates the integration of third-party APIs with a dynamic Bootstrap-powered UI.
 
 
